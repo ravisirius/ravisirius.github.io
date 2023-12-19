@@ -48,7 +48,7 @@ p {
 blockquote {
 	margin: 24px 0;
 	margin-left: 72px;
-	border-left: 4px solid #ff5050;
+	border-left: 4px solid rgb(71, 85, 178);
 	padding: 0;
 	padding-left: 38px;
 	font-size: 16px;
@@ -79,7 +79,7 @@ blockquote footer {
 	font-size: 13px;
 	line-height: 28px;
 	text-transform: uppercase;
-	color: #ff5050;
+	color: rgb(71, 85, 178);
 	margin-top: 12px;
 }
 blockquote footer:before {
@@ -92,10 +92,10 @@ a {
 	-ms-transition: .25s;
 	transition: .25s;
 	outline: none !important;
-	color: #ff5050;
+	color: rgb(71, 85, 178);
 }
 a:hover {
-	color: #ff5050;
+	color: rgb(71, 85, 178);
 }
 a:focus {
 	text-decoration: none;
@@ -134,7 +134,7 @@ a:hover img {
 	vertical-align: middle;
 }
 .list-icons.purple > li > i {
-	color: #ff5050;
+	color: rgb(71, 85, 178);
 }
 .bold-list {
 	font-weight: 500;
@@ -246,7 +246,7 @@ h3.small-margin-bottom {
 	box-shadow: 0 3px 6px rgba(0,0,0,.3);
 }
 .solid-button.purple {
-	background: #ff5050;
+	background: rgb(71, 85, 178);
 	color: #fff;
 }
 .solid-button.white {
@@ -262,7 +262,7 @@ h3.small-margin-bottom {
 	color: #232323;
 }
 .solid-button.white-purple:hover {
-	background: #ff5050;
+	background: rgb(71, 85, 178);
 	color: #fff;
 }
 .solid-button.small {
@@ -282,7 +282,7 @@ h3.small-margin-bottom {
 }
 /*==========  Action Button  ==========*/
 .action-button {
-	background: #ff5050;
+	background: rgb(71, 85, 178);
 	color: #fff;
 	font-size: 24px;
 	width: 60px;
@@ -314,7 +314,7 @@ input:not([type=submit]):not([type=file]), select, textarea {
 	transition: .25s;
 }
 input:not([type=submit]):not([type=file]):focus, select:focus, textarea:focus {
-	border-color: #ff5050;
+	border-color: rgb(71, 85, 178);
 }
 .input-group {
 	margin-bottom: 28px;
@@ -364,7 +364,7 @@ input:not([type=submit]):not([type=file]):focus, select:focus, textarea:focus {
 }
 .progress-bar {
 	line-height: 8px;
-	background-color: #ff5050;
+	background-color: rgb(71, 85, 178);
 	box-shadow: none;
 	position: relative;
 }
@@ -457,7 +457,7 @@ input:not([type=submit]):not([type=file]):focus, select:focus, textarea:focus {
 	text-transform: uppercase;
 }
 .header .top {
-	background: #4056a1;
+	background: #272726;
 	line-height: 50px;
 	color: #fff;
 	padding: 0 60px;
@@ -525,11 +525,11 @@ input:not([type=submit]):not([type=file]):focus, select:focus, textarea:focus {
 	border-bottom: 5px solid transparent;
 }
 .main-nav ul>li a:hover {
-	border-bottom: 5px solid #ff5050;
+	border-bottom: 5px solid rgb(71, 85, 178);
 	text-decoration: none;
 }
 .main-nav ul>li.active a {
-	border-bottom: 5px solid #ff5050;
+	border-bottom: 5px solid rgb(71, 85, 178);
 	text-decoration: none;
 }
 .header-action-button-wrapper {
@@ -594,7 +594,7 @@ input:not([type=submit]):not([type=file]):focus, select:focus, textarea:focus {
 	text-decoration: none;
 }
 .responsive-nav ul>li.active a {
-	color: #ff5050;
+	color: rgb(71, 85, 178);
 }
 .no-scroll {
 	overflow: hidden;
@@ -667,7 +667,7 @@ input:not([type=submit]):not([type=file]):focus, select:focus, textarea:focus {
 }
 .popup .social-nav ul li a:hover, .slide-out-popup .social-nav ul li a:hover {
 	color: #fff;
-	background: #ff5050;
+	background: rgb(71, 85, 178);
 	font-weight: 700;
 	text-decoration: none;
 }
@@ -681,8 +681,8 @@ input:not([type=submit]):not([type=file]):focus, select:focus, textarea:focus {
 }
 /*==========  Search  ==========*/
 .search-overlay {
-	background: #ff5050;
-	background: #ff5050;
+	background: rgb(71, 85, 178);
+	background: rgb(71, 85, 178);
 	-webkit-transform: scale(0);
 	-moz-transform: scale(0);
 	-ms-transform: scale(0);
@@ -776,7 +776,7 @@ input:not([type=submit]):not([type=file]):focus, select:focus, textarea:focus {
 	right: 0;
 }
 .slide-out-header {
-	background: #ff5050;
+	background: rgb(71, 85, 178);
 	padding: 30px;
 	padding-top: 20px;
 	color: #fff;
@@ -846,11 +846,11 @@ input:not([type=submit]):not([type=file]):focus, select:focus, textarea:focus {
 	font-weight: 500;
 }
 .footer .top {
-	background: #4056a1;
+	background: #2f2f2f;
 	padding: 48px 0;
 }
 .footer .bottom {
-	background: #4056a1;
+	background: #434343;
 	line-height: 50px;
 }
 .footer h4 {
@@ -883,7 +883,7 @@ input:not([type=submit]):not([type=file]):focus, select:focus, textarea:focus {
 	box-shadow: 0 4px 12px rgba(0,0,0,.13), 0 6px 10px rgba(0,0,0,.3);
 }
 .social-icon:hover {
-	background: #ff5050;
+	background: rgb(71, 85, 178);
 	color: #fff;
 }
 
@@ -1007,7 +1007,7 @@ input:not([type=submit]):not([type=file]):focus, select:focus, textarea:focus {
 	width: 14px;
 	height: 14px;
 	background: #fff;
-	border: 4px solid #ff5050;
+	border: 4px solid rgb(71, 85, 178);
 	border-radius: 100%;
 	position: absolute;
 	left: -18px;
@@ -1019,7 +1019,7 @@ input:not([type=submit]):not([type=file]):focus, select:focus, textarea:focus {
 	width: 14px;
 	height: 14px;
 	background: #fff;
-	border: 4px solid #ff5050;
+	border: 4px solid rgb(71, 85, 178);
 	border-radius: 100%;
 	position: absolute;
 	right: -18px;
@@ -1043,7 +1043,7 @@ input:not([type=submit]):not([type=file]):focus, select:focus, textarea:focus {
 	margin-bottom: 24px;
 }
 .service:hover {
-	background: #ff5050;
+	background: rgb(71, 85, 178);
 	color: #fff;
 	box-shadow: 0 3px 6px rgba(0,0,0,.3);
 }
@@ -1110,14 +1110,14 @@ input:not([type=submit]):not([type=file]):focus, select:focus, textarea:focus {
 	height: 0;
 	border-style: solid;
 	border-width: 13px 10px 0 0;
-	border-color: #ff5050 transparent transparent transparent;
+	border-color: rgb(71, 85, 178) transparent transparent transparent;
 	position: absolute;
 	top: 0;
 	right: -10px;
 }
 .experience-block .meta .year {
 	display: block;
-	background: #ff5050;
+	background: rgb(71, 85, 178);
 	color: #fff;
 	text-align: center;
 	font-size: 14px;
@@ -1176,7 +1176,7 @@ input:not([type=submit]):not([type=file]):focus, select:focus, textarea:focus {
 	}
 	.experience-block .meta:after {
 		border-width: 0 10px 13px 0;
-		border-color: transparent #ff5050 transparent transparent;
+		border-color: transparent rgb(71, 85, 178) transparent transparent;
 		right: auto;
 		left: -10px;
 	}
@@ -1221,7 +1221,7 @@ input:not([type=submit]):not([type=file]):focus, select:focus, textarea:focus {
 	width: 65px;
 	height: 3px;
 	margin: 0 auto;
-	background: #ff5050;
+	background: rgb(71, 85, 178);
 	margin-bottom: 30px;
 	position: relative;
 }
@@ -1231,7 +1231,7 @@ input:not([type=submit]):not([type=file]):focus, select:focus, textarea:focus {
 	height: 0;
 	border-style: solid;
 	border-width: 8px 6px 0 6px;
-	border-color: #ff5050 transparent transparent transparent;
+	border-color: rgb(71, 85, 178) transparent transparent transparent;
 	position: absolute;
 	bottom: -8px;
 	left: 50%;
@@ -1258,7 +1258,7 @@ input:not([type=submit]):not([type=file]):focus, select:focus, textarea:focus {
 	box-shadow: 0 2px 4px rgba(0,0,0,.3);
 }
 .owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span {
-	background: #ff5050;
+	background: rgb(71, 85, 178);
 }
 .owl-theme .owl-nav {
 	margin-top: 0;
@@ -1286,7 +1286,7 @@ input:not([type=submit]):not([type=file]):focus, select:focus, textarea:focus {
 	width: 14px;
 	height: 14px;
 	background: #fff;
-	border: 4px solid #ff5050;
+	border: 4px solid rgb(71, 85, 178);
 	border-radius: 100%;
 	position: absolute;
 	left: -18px;
@@ -1298,7 +1298,7 @@ input:not([type=submit]):not([type=file]):focus, select:focus, textarea:focus {
 	width: 14px;
 	height: 14px;
 	background: #fff;
-	border: 4px solid #ff5050;
+	border: 4px solid rgb(71, 85, 178);
 	border-radius: 100%;
 	position: absolute;
 	right: -18px;
@@ -1315,7 +1315,7 @@ input:not([type=submit]):not([type=file]):focus, select:focus, textarea:focus {
 	width: 22px;
 	height: 22px;
 	background: #fff;
-	border: 6px solid #ff5050;
+	border: 6px solid rgb(71, 85, 178);
 	position: absolute;
 	top: 0;
 	left: 50%;
@@ -1493,7 +1493,7 @@ input:not([type=submit]):not([type=file]):focus, select:focus, textarea:focus {
 	transition: .25s;
 }
 .icon-box:hover .icon {
-	background: #ff5050;
+	background: rgb(71, 85, 178);
 	color: #fff;
 	box-shadow: 0 3px 6px rgba(0,0,0,.3);
 }
@@ -1543,8 +1543,8 @@ input:not([type=submit]):not([type=file]):focus, select:focus, textarea:focus {
 	visibility: visible;
 }
 .portfolio .item .overlay .background {
-	background: #ff5050;
-	background: #ff5050;
+	background: rgb(71, 85, 178);
+	background: rgb(71, 85, 178);
 	width: 100%;
 	height: 100%;
 	cursor: url('../images/cursor.png') 43 43, crosshair;
@@ -1842,7 +1842,7 @@ input:not([type=submit]):not([type=file]):focus, select:focus, textarea:focus {
 	background-size: cover;
 }
 .single-blog-post .blog-header .content .date {
-	color: #ff5050;
+	color: rgb(71, 85, 178);
 	text-transform: uppercase;
 	font-size: 13px;
 	line-height: 24px;
@@ -1921,7 +1921,7 @@ input:not([type=submit]):not([type=file]):focus, select:focus, textarea:focus {
 	color: #666;
 }
 .single-blog-post .blog-details .tags a:hover {
-	color: #ff5050;
+	color: rgb(71, 85, 178);
 	text-decoration: none;
 }
 .single-blog-post .blog-details .tags span {
@@ -2016,7 +2016,7 @@ input:not([type=submit]):not([type=file]):focus, select:focus, textarea:focus {
 	color: #232323;
 }
 .comment .reply i {
-	color: #ff5050;
+	color: rgb(71, 85, 178);
 	margin-left: 6px;
 }
 .comment .reply:hover {
